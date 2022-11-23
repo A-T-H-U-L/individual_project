@@ -1,1 +1,0 @@
-SELECT * FROM taxproject_db.users;
